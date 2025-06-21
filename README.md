@@ -25,15 +25,6 @@ Este projeto simula um jogo clássico de Sudoku no terminal, onde o jogador deve
 
 ---
 
-## 🚀 Como executar
-
-### 1. Compile os arquivos
-
-```bash
-javac *.java
-
----
-
 ## 🛠️ Estrutura do Projeto
 - Celula.java – Classe que representa uma célula do tabuleiro.
 
@@ -52,4 +43,4 @@ javac *.java
 
 - Boas práticas de terminal interativo
 
---> Separação de responsabilidades
+- Separação de responsabilidades
