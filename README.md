@@ -35,21 +35,21 @@ javac *.java
 ---
 
 ## 🛠️ Estrutura do Projeto
---> Celula.java – Classe que representa uma célula do tabuleiro.
+- Celula.java – Classe que representa uma célula do tabuleiro.
 
---> Tabuleiro.java – Contém a lógica de verificação e exibição do Sudoku.
+- Tabuleiro.java – Contém a lógica de verificação e exibição do Sudoku.
 
---> SudokuGame.java – Classe principal com o loop de interação via terminal.
+- SudokuGame.java – Classe principal com o loop de interação via terminal.
 
 ---
 
 ## 📚 Conceitos aplicados
---> Programação Orientada a Objetos
+- Programação Orientada a Objetos
 
---> Validação de entradas
+- Validação de entradas
 
---> Manipulação de Strings e Arrays
+- Manipulação de Strings e Arrays
 
---> Boas práticas de terminal interativo
+- Boas práticas de terminal interativo
 
 --> Separação de responsabilidades
